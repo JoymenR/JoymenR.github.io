@@ -1,0 +1,23 @@
+<svg width="15" height="11" viewBox="0 0 82 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M76.3071 14.1641C78.1941 14.1641 79.7237 15.6944 79.7237 17.5821C79.7237 19.4697 78.1941 21.0001 76.3071 21.0001C74.4203 21.0001 72.8906 19.4697 72.8906 17.5821C72.8906 15.6944 74.4203 14.1641 76.3071 14.1641Z" fill="#FD0002"/>
+<mask id="mask0_2429_1194" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="74" y="0" width="8" height="14">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M74.0273 0.500488H81.9992V13.486H74.0273V0.500488Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2429_1194)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M74.0273 13.486L75.1005 0.500488H81.9992L79.393 13.486H74.0273Z" fill="#FD0002"/>
+</g>
+<mask id="mask1_2429_1194" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="54" y="1" width="17" height="20">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M54.0977 1.06104H70.6108V20.9994H54.0977V1.06104Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_2429_1194)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M54.0977 13.148V8.14854H59.2618L70.6108 1.06104V20.9994L59.2618 13.148H54.0977Z" fill="#FD0002"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.3594 19.8588V1.63018H28.6397C28.6397 1.63018 34.1601 1.42078 34.1601 7.85441C34.1601 7.85441 34.5182 13.4302 28.6397 13.7059H24.1935V19.8588H19.3594Z" fill="#FD0002"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.8451 1.62939C48.8768 1.62939 52.9558 5.71018 52.9558 10.7441C52.9558 15.778 48.8768 19.8588 43.8451 19.8588C38.8134 19.8588 34.7344 15.778 34.7344 10.7441C34.7344 5.71018 38.8134 1.62939 43.8451 1.62939Z" fill="#FD0002"/>
+<mask id="mask2_2429_1194" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="1" width="19" height="19">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.00390625 1.62939H18.2253V19.8588H0.00390625V1.62939Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_2429_1194)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.11463 1.62939C14.1464 1.62939 18.2254 5.71018 18.2254 10.7441C18.2254 15.778 14.1464 19.8588 9.11463 19.8588C4.08291 19.8588 0.00390625 15.778 0.00390625 10.7441C0.00390625 5.71018 4.08291 1.62939 9.11463 1.62939Z" fill="#FD0002"/>
+</g>
+</svg>
